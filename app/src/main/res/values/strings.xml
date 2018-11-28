@@ -1,0 +1,40 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CoffeeOrderOnline</string>
+
+    <string name="edet_txt_name">Enter your Name</string>
+    <string name="txt_topping">Toppings</string>
+    <string name="whipped_cream_chwck">Whipped cream</string>
+    <string name="chocolate_check">Chocolate</string>
+    <string name="quantitye_text">Quantity</string>
+    <string name="order_button">ORDER</string>
+    <string name="coffee_text">Coffee</string>
+
+    <string name="_0">0</string>
+
+    <string name="order_summary_name">
+        Name: <xliff:g example="Mohamed" id="name">%s</xliff:g>
+    </string>
+
+    <string name="order_summary_whipped_cream">
+        Add Whipped Cream? <xliff:g example="Mohamed" id="addwhippedCream">%s</xliff:g>
+    </string>
+
+    <string name="order_summary_chocolate">
+        Add Chocolate? <xliff:g example="Mohamed" id="addChocolate">%s</xliff:g>
+    </string>
+
+    <string name="order_summary_quantitye">
+        Quantitye: <xliff:g example="2" id="quantitye">%s</xliff:g>
+    </string>
+
+    <string name="order_summary_price">
+        Totle Price: <xliff:g example="$10" id="price">%s</xliff:g>
+    </string>
+
+    <string name="thank_you">Thank you ..!</string>
+
+    <string name="order_summary_email_subject">
+        Just Java Order for <xliff:g example="Amy" id="name">%s</xliff:g>
+    </string>
+
+</resources>
